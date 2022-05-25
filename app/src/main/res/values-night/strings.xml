@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="temperature_label">temperature_label</string>
+    <string name="feels_like_label">feels_like_label</string>
+</resources>
